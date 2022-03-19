@@ -1,0 +1,1832 @@
+{
+    "sys-devel/binutils-apple": [
+        {
+            "file": "/usr/portage/sys-devel/binutils-apple/binutils-apple-11.3.1-r1.ebuild",
+            "line": 340,
+            "endLine": 340,
+            "column": 28,
+            "endColumn": 42,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to implicit -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "sys-devel/binutils-apple"
+        },
+        {
+            "file": "/usr/portage/sys-devel/binutils-apple/binutils-apple-8.2.1-r1.ebuild",
+            "line": 328,
+            "endLine": 328,
+            "column": 28,
+            "endColumn": 42,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to implicit -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "sys-devel/binutils-apple"
+        }
+    ],
+    "dev-scheme/racket": [
+        {
+            "file": "/usr/portage/dev-scheme/racket/racket-8.4-r1.ebuild",
+            "line": 150,
+            "endLine": 150,
+            "column": 18,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-scheme/racket"
+        }
+    ],
+    "scripts/bootstrap.sh": [
+        {
+            "file": "/usr/portage/scripts/bootstrap.sh",
+            "line": 175,
+            "endLine": 175,
+            "column": 21,
+            "endColumn": 25,
+            "level": "error",
+            "code": 2173,
+            "message": "SIGKILL/SIGSTOP can not be trapped.",
+            "fix": null,
+            "atom": "scripts/bootstrap.sh"
+        }
+    ],
+    "net-print/cups": [
+        {
+            "file": "/usr/portage/net-print/cups/cups-2.3.3-r4.ebuild",
+            "line": 245,
+            "endLine": 245,
+            "column": 15,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-print/cups"
+        },
+        {
+            "file": "/usr/portage/net-print/cups/cups-9999.ebuild",
+            "line": 232,
+            "endLine": 232,
+            "column": 15,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-print/cups"
+        },
+        {
+            "file": "/usr/portage/net-print/cups/cups-2.3.3_p2-r2.ebuild",
+            "line": 233,
+            "endLine": 233,
+            "column": 15,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-print/cups"
+        },
+        {
+            "file": "/usr/portage/net-print/cups/cups-2.3.3_p2-r3.ebuild",
+            "line": 244,
+            "endLine": 244,
+            "column": 15,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-print/cups"
+        }
+    ],
+    "dev-python/setuptools": [
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.9.2.ebuild",
+            "line": 91,
+            "endLine": 91,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.10.0.ebuild",
+            "line": 92,
+            "endLine": 92,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.9.0.ebuild",
+            "line": 91,
+            "endLine": 91,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.9.1.ebuild",
+            "line": 91,
+            "endLine": 91,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.5.0.ebuild",
+            "line": 69,
+            "endLine": 69,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.8.0.ebuild",
+            "line": 91,
+            "endLine": 91,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        },
+        {
+            "file": "/usr/portage/dev-python/setuptools/setuptools-60.7.1.ebuild",
+            "line": 85,
+            "endLine": 85,
+            "column": 51,
+            "endColumn": 59,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of continue.",
+            "fix": null,
+            "atom": "dev-python/setuptools"
+        }
+    ],
+    "sys-fs/cryfs": [
+        {
+            "file": "/usr/portage/sys-fs/cryfs/cryfs-0.10.3-r1.ebuild",
+            "line": 92,
+            "endLine": 92,
+            "column": 18,
+            "endColumn": 36,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-fs/cryfs"
+        }
+    ],
+    "sys-apps/portage": [
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-9999.ebuild",
+            "line": 170,
+            "endLine": 170,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-9999.ebuild",
+            "line": 207,
+            "endLine": 207,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.18.ebuild",
+            "line": 187,
+            "endLine": 187,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.18.ebuild",
+            "line": 224,
+            "endLine": 224,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.29.ebuild",
+            "line": 175,
+            "endLine": 175,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.29.ebuild",
+            "line": 212,
+            "endLine": 212,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.30-r1.ebuild",
+            "line": 176,
+            "endLine": 176,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.30-r1.ebuild",
+            "line": 213,
+            "endLine": 213,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.20-r6.ebuild",
+            "line": 194,
+            "endLine": 194,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.20-r6.ebuild",
+            "line": 231,
+            "endLine": 231,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.28-r1.ebuild",
+            "line": 179,
+            "endLine": 179,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        },
+        {
+            "file": "/usr/portage/sys-apps/portage/portage-3.0.28-r1.ebuild",
+            "line": 216,
+            "endLine": 216,
+            "column": 15,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-apps/portage"
+        }
+    ],
+    "sys-apps/memtest86": [
+        {
+            "file": "/usr/portage/sys-apps/memtest86/files/39_memtest86-r1",
+            "line": 30,
+            "endLine": 30,
+            "column": 18,
+            "endColumn": 39,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "sys-apps/memtest86"
+        }
+    ],
+    "sys-apps/busybox": [
+        {
+            "file": "/usr/portage/sys-apps/busybox/files/mdev/ide_links",
+            "line": 6,
+            "endLine": 6,
+            "column": 17,
+            "endColumn": 17,
+            "level": "error",
+            "code": 1087,
+            "message": "Use braces when expanding arrays, e.g. ${array[idx]} (or ${var}[.. to quiet).",
+            "fix": null,
+            "atom": "sys-apps/busybox"
+        },
+        {
+            "file": "/usr/portage/sys-apps/busybox/files/mdev/ide_links",
+            "line": 20,
+            "endLine": 20,
+            "column": 9,
+            "endColumn": 9,
+            "level": "error",
+            "code": 1087,
+            "message": "Use braces when expanding arrays, e.g. ${array[idx]} (or ${var}[.. to quiet).",
+            "fix": null,
+            "atom": "sys-apps/busybox"
+        },
+        {
+            "file": "/usr/portage/sys-apps/busybox/files/mdev/usbdisk_link",
+            "line": 25,
+            "endLine": 25,
+            "column": 11,
+            "endColumn": 29,
+            "level": "error",
+            "code": 2144,
+            "message": "-e doesn't work with globs. Use a for loop.",
+            "fix": null,
+            "atom": "sys-apps/busybox"
+        }
+    ],
+    "sys-apps/memtest86+": [
+        {
+            "file": "/usr/portage/sys-apps/memtest86+/files/39_memtest86+-r1",
+            "line": 30,
+            "endLine": 30,
+            "column": 18,
+            "endColumn": 39,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "sys-apps/memtest86+"
+        }
+    ],
+    "sys-apps/kexec-tools": [
+        {
+            "file": "/usr/portage/sys-apps/kexec-tools/kexec-tools-9999.ebuild",
+            "line": 117,
+            "endLine": 117,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-apps/kexec-tools"
+        },
+        {
+            "file": "/usr/portage/sys-apps/kexec-tools/kexec-tools-2.0.23.ebuild",
+            "line": 117,
+            "endLine": 117,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-apps/kexec-tools"
+        },
+        {
+            "file": "/usr/portage/sys-apps/kexec-tools/kexec-tools-2.0.22.ebuild",
+            "line": 117,
+            "endLine": 117,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-apps/kexec-tools"
+        }
+    ],
+    "sys-auth/pam_ssh": [
+        {
+            "file": "/usr/portage/sys-auth/pam_ssh/pam_ssh-2.3.ebuild",
+            "line": 64,
+            "endLine": 64,
+            "column": 18,
+            "endColumn": 41,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "sys-auth/pam_ssh"
+        }
+    ],
+    "games-strategy/defcon-demo": [
+        {
+            "file": "/usr/portage/games-strategy/defcon-demo/files/defcon",
+            "line": 2,
+            "endLine": 2,
+            "column": 10,
+            "endColumn": 21,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "games-strategy/defcon-demo"
+        }
+    ],
+    "media-fonts/culmus": [
+        {
+            "file": "/usr/portage/media-fonts/culmus/culmus-0.120-r6.ebuild",
+            "line": 173,
+            "endLine": 173,
+            "column": 30,
+            "endColumn": 30,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "media-fonts/culmus"
+        },
+        {
+            "file": "/usr/portage/media-fonts/culmus/culmus-0.133-r1.ebuild",
+            "line": 175,
+            "endLine": 175,
+            "column": 30,
+            "endColumn": 30,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "media-fonts/culmus"
+        }
+    ],
+    "dev-libs/libdbusmenu": [
+        {
+            "file": "/usr/portage/dev-libs/libdbusmenu/libdbusmenu-16.04.0-r1.ebuild",
+            "line": 94,
+            "endLine": 94,
+            "column": 12,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-libs/libdbusmenu"
+        },
+        {
+            "file": "/usr/portage/dev-libs/libdbusmenu/libdbusmenu-16.04.0-r1.ebuild",
+            "line": 107,
+            "endLine": 107,
+            "column": 12,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-libs/libdbusmenu"
+        },
+        {
+            "file": "/usr/portage/dev-libs/libdbusmenu/libdbusmenu-16.04.0-r1.ebuild",
+            "line": 121,
+            "endLine": 121,
+            "column": 12,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-libs/libdbusmenu"
+        },
+        {
+            "file": "/usr/portage/dev-libs/libdbusmenu/libdbusmenu-16.04.0-r1.ebuild",
+            "line": 129,
+            "endLine": 129,
+            "column": 12,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-libs/libdbusmenu"
+        }
+    ],
+    "eclass/tests": [
+        {
+            "file": "/usr/portage/eclass/tests/git-r3_subrepos.sh",
+            "line": 21,
+            "endLine": 21,
+            "column": 12,
+            "endColumn": 24,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "eclass/tests"
+        },
+        {
+            "file": "/usr/portage/eclass/tests/git-r3_subrepos.sh",
+            "line": 21,
+            "endLine": 21,
+            "column": 28,
+            "endColumn": 42,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "eclass/tests"
+        },
+        {
+            "file": "/usr/portage/eclass/tests/qmail.sh",
+            "line": 16,
+            "endLine": 16,
+            "column": 32,
+            "endColumn": 36,
+            "level": "error",
+            "code": 2151,
+            "message": "Only one integer 0-255 can be returned. Use stdout for other data.",
+            "fix": null,
+            "atom": "eclass/tests"
+        }
+    ],
+    "net-p2p/retroshare": [
+        {
+            "file": "/usr/portage/net-p2p/retroshare/retroshare-0.6.6.ebuild",
+            "line": 115,
+            "endLine": 115,
+            "column": 25,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of break.",
+            "fix": null,
+            "atom": "net-p2p/retroshare"
+        },
+        {
+            "file": "/usr/portage/net-p2p/retroshare/retroshare-0.6.6.ebuild",
+            "line": 119,
+            "endLine": 119,
+            "column": 25,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of break.",
+            "fix": null,
+            "atom": "net-p2p/retroshare"
+        },
+        {
+            "file": "/usr/portage/net-p2p/retroshare/retroshare-0.6.6-r1.ebuild",
+            "line": 116,
+            "endLine": 116,
+            "column": 25,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of break.",
+            "fix": null,
+            "atom": "net-p2p/retroshare"
+        },
+        {
+            "file": "/usr/portage/net-p2p/retroshare/retroshare-0.6.6-r1.ebuild",
+            "line": 120,
+            "endLine": 120,
+            "column": 25,
+            "endColumn": 30,
+            "level": "error",
+            "code": 2104,
+            "message": "In functions, use return instead of break.",
+            "fix": null,
+            "atom": "net-p2p/retroshare"
+        }
+    ],
+    "net-p2p/freenet": [
+        {
+            "file": "/usr/portage/net-p2p/freenet/freenet-0.7.5_p1488-r1.ebuild",
+            "line": 133,
+            "endLine": 133,
+            "column": 24,
+            "endColumn": 46,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "net-p2p/freenet"
+        },
+        {
+            "file": "/usr/portage/net-p2p/freenet/freenet-0.7.5_p1492.ebuild",
+            "line": 130,
+            "endLine": 130,
+            "column": 24,
+            "endColumn": 46,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "net-p2p/freenet"
+        },
+        {
+            "file": "/usr/portage/net-p2p/freenet/freenet-0.7.5_p1491-r1.ebuild",
+            "line": 130,
+            "endLine": 130,
+            "column": 24,
+            "endColumn": 46,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "net-p2p/freenet"
+        },
+        {
+            "file": "/usr/portage/net-p2p/freenet/freenet-0.7.5_p1488-r2.ebuild",
+            "line": 134,
+            "endLine": 134,
+            "column": 24,
+            "endColumn": 46,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "net-p2p/freenet"
+        },
+        {
+            "file": "/usr/portage/net-p2p/freenet/freenet-0.7.5_p1491.ebuild",
+            "line": 129,
+            "endLine": 129,
+            "column": 24,
+            "endColumn": 46,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "net-p2p/freenet"
+        }
+    ],
+    "net-misc/dhcpcd": [
+        {
+            "file": "/usr/portage/net-misc/dhcpcd/dhcpcd-9.4.0-r1.ebuild",
+            "line": 124,
+            "endLine": 124,
+            "column": 18,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-misc/dhcpcd"
+        },
+        {
+            "file": "/usr/portage/net-misc/dhcpcd/dhcpcd-9999.ebuild",
+            "line": 118,
+            "endLine": 118,
+            "column": 18,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-misc/dhcpcd"
+        },
+        {
+            "file": "/usr/portage/net-misc/dhcpcd/dhcpcd-9.4.1.ebuild",
+            "line": 118,
+            "endLine": 118,
+            "column": 18,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "net-misc/dhcpcd"
+        }
+    ],
+    "sys-kernel/genkernel": [
+        {
+            "file": "/usr/portage/sys-kernel/genkernel/genkernel-4.2.6-r2.ebuild",
+            "line": 296,
+            "endLine": 296,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-kernel/genkernel"
+        },
+        {
+            "file": "/usr/portage/sys-kernel/genkernel/genkernel-4.2.5.ebuild",
+            "line": 290,
+            "endLine": 290,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-kernel/genkernel"
+        },
+        {
+            "file": "/usr/portage/sys-kernel/genkernel/genkernel-9999.ebuild",
+            "line": 291,
+            "endLine": 291,
+            "column": 30,
+            "endColumn": 31,
+            "level": "error",
+            "code": 2071,
+            "message": "> is for string comparisons. Use -gt instead.",
+            "fix": null,
+            "atom": "sys-kernel/genkernel"
+        }
+    ],
+    "sys-libs/ncurses": [
+        {
+            "file": "/usr/portage/sys-libs/ncurses/ncurses-6.3_p20211106.ebuild",
+            "line": 33,
+            "endLine": 33,
+            "column": 18,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "sys-libs/ncurses"
+        }
+    ],
+    "sys-libs/glibc": [
+        {
+            "file": "/usr/portage/sys-libs/glibc/glibc-2.31-r7.ebuild",
+            "line": 1446,
+            "endLine": 1447,
+            "column": 17,
+            "endColumn": 60,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "sys-libs/glibc"
+        },
+        {
+            "file": "/usr/portage/sys-libs/glibc/glibc-2.32-r8.ebuild",
+            "line": 1458,
+            "endLine": 1459,
+            "column": 17,
+            "endColumn": 60,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "sys-libs/glibc"
+        },
+        {
+            "file": "/usr/portage/sys-libs/glibc/glibc-2.30-r9.ebuild",
+            "line": 1418,
+            "endLine": 1419,
+            "column": 17,
+            "endColumn": 60,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "sys-libs/glibc"
+        },
+        {
+            "file": "/usr/portage/sys-libs/glibc/glibc-2.19-r2.ebuild",
+            "line": 1262,
+            "endLine": 1263,
+            "column": 17,
+            "endColumn": 60,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "sys-libs/glibc"
+        },
+        {
+            "file": "/usr/portage/sys-libs/glibc/glibc-2.33-r7.ebuild",
+            "line": 1475,
+            "endLine": 1476,
+            "column": 17,
+            "endColumn": 60,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "sys-libs/glibc"
+        }
+    ],
+    "net-analyzer/syweb": [
+        {
+            "file": "/usr/portage/net-analyzer/syweb/files/reconfig",
+            "line": 11,
+            "endLine": 11,
+            "column": 20,
+            "endColumn": 20,
+            "level": "error",
+            "code": 1087,
+            "message": "Use braces when expanding arrays, e.g. ${array[idx]} (or ${var}[.. to quiet).",
+            "fix": null,
+            "atom": "net-analyzer/syweb"
+        }
+    ],
+    "lxde-base/lxdm": [
+        {
+            "file": "/usr/portage/lxde-base/lxdm/files/Xsession",
+            "line": 68,
+            "endLine": 68,
+            "column": 14,
+            "endColumn": 32,
+            "level": "error",
+            "code": 2045,
+            "message": "Iterating over ls output is fragile. Use globs.",
+            "fix": null,
+            "atom": "lxde-base/lxdm"
+        }
+    ],
+    "app-portage/prefix-toolkit": [
+        {
+            "file": "/usr/portage/app-portage/prefix-toolkit/prefix-toolkit-8.ebuild",
+            "line": 177,
+            "endLine": 177,
+            "column": 12,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "app-portage/prefix-toolkit"
+        },
+        {
+            "file": "/usr/portage/app-portage/prefix-toolkit/prefix-toolkit-9.ebuild",
+            "line": 186,
+            "endLine": 186,
+            "column": 12,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "app-portage/prefix-toolkit"
+        }
+    ],
+    "app-portage/elogv": [
+        {
+            "file": "/usr/portage/app-portage/elogv/elogv-0.7.8-r3.ebuild",
+            "line": 32,
+            "endLine": 32,
+            "column": 26,
+            "endColumn": 57,
+            "level": "error",
+            "code": 2045,
+            "message": "Iterating over ls output is fragile. Use globs.",
+            "fix": null,
+            "atom": "app-portage/elogv"
+        },
+        {
+            "file": "/usr/portage/app-portage/elogv/elogv-0.7.9.ebuild",
+            "line": 32,
+            "endLine": 32,
+            "column": 26,
+            "endColumn": 57,
+            "level": "error",
+            "code": 2045,
+            "message": "Iterating over ls output is fragile. Use globs.",
+            "fix": null,
+            "atom": "app-portage/elogv"
+        }
+    ],
+    "x11-libs/gtk+": [
+        {
+            "file": "/usr/portage/x11-libs/gtk+/gtk+-2.24.33.ebuild",
+            "line": 284,
+            "endLine": 284,
+            "column": 17,
+            "endColumn": 51,
+            "level": "error",
+            "code": 2144,
+            "message": "-e doesn't work with globs. Use a for loop.",
+            "fix": null,
+            "atom": "x11-libs/gtk+"
+        }
+    ],
+    "dev-perl/Festival-Client-Async": [
+        {
+            "file": "/usr/portage/dev-perl/Festival-Client-Async/Festival-Client-Async-0.30.300-r3.ebuild",
+            "line": 26,
+            "endLine": 26,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Festival-Client-Async"
+        }
+    ],
+    "dev-perl/Device-SerialPort": [
+        {
+            "file": "/usr/portage/dev-perl/Device-SerialPort/Device-SerialPort-1.40.0-r3.ebuild",
+            "line": 43,
+            "endLine": 43,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Device-SerialPort"
+        }
+    ],
+    "dev-perl/Mail-Sendmail": [
+        {
+            "file": "/usr/portage/dev-perl/Mail-Sendmail/Mail-Sendmail-0.800.0-r1.ebuild",
+            "line": 37,
+            "endLine": 37,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Mail-Sendmail"
+        }
+    ],
+    "dev-perl/Alien-LibGumbo": [
+        {
+            "file": "/usr/portage/dev-perl/Alien-LibGumbo/Alien-LibGumbo-0.50.0-r2.ebuild",
+            "line": 53,
+            "endLine": 53,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Alien-LibGumbo"
+        }
+    ],
+    "dev-perl/Bio-Das": [
+        {
+            "file": "/usr/portage/dev-perl/Bio-Das/Bio-Das-1.170.0-r3.ebuild",
+            "line": 79,
+            "endLine": 79,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Bio-Das"
+        }
+    ],
+    "dev-perl/Email-Send-Gmail": [
+        {
+            "file": "/usr/portage/dev-perl/Email-Send-Gmail/Email-Send-Gmail-0.330.0-r1.ebuild",
+            "line": 38,
+            "endLine": 38,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Email-Send-Gmail"
+        }
+    ],
+    "dev-perl/CDDB": [
+        {
+            "file": "/usr/portage/dev-perl/CDDB/CDDB-1.222.0-r3.ebuild",
+            "line": 67,
+            "endLine": 67,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/CDDB"
+        }
+    ],
+    "dev-perl/Filesys-SmbClient": [
+        {
+            "file": "/usr/portage/dev-perl/Filesys-SmbClient/Filesys-SmbClient-3.200.0-r4.ebuild",
+            "line": 59,
+            "endLine": 59,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Filesys-SmbClient"
+        }
+    ],
+    "dev-perl/Audio-CD-disc-cover": [
+        {
+            "file": "/usr/portage/dev-perl/Audio-CD-disc-cover/Audio-CD-disc-cover-0.05-r3.ebuild",
+            "line": 50,
+            "endLine": 50,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Audio-CD-disc-cover"
+        }
+    ],
+    "dev-perl/DBD-Pg": [
+        {
+            "file": "/usr/portage/dev-perl/DBD-Pg/DBD-Pg-3.15.0.ebuild",
+            "line": 71,
+            "endLine": 71,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/DBD-Pg"
+        }
+    ],
+    "dev-perl/Apache2-AuthenNTLM": [
+        {
+            "file": "/usr/portage/dev-perl/Apache2-AuthenNTLM/Apache2-AuthenNTLM-0.20.0-r3.ebuild",
+            "line": 32,
+            "endLine": 32,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Apache2-AuthenNTLM"
+        }
+    ],
+    "dev-perl/CursesWidgets": [
+        {
+            "file": "/usr/portage/dev-perl/CursesWidgets/CursesWidgets-1.997.0-r3.ebuild",
+            "line": 43,
+            "endLine": 43,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/CursesWidgets"
+        }
+    ],
+    "dev-perl/IMAP-Admin": [
+        {
+            "file": "/usr/portage/dev-perl/IMAP-Admin/IMAP-Admin-1.6.8-r1.ebuild",
+            "line": 26,
+            "endLine": 26,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/IMAP-Admin"
+        }
+    ],
+    "dev-perl/Audio-DSP": [
+        {
+            "file": "/usr/portage/dev-perl/Audio-DSP/Audio-DSP-0.20.0-r3.ebuild",
+            "line": 31,
+            "endLine": 31,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Audio-DSP"
+        }
+    ],
+    "dev-perl/Apache-DBI": [
+        {
+            "file": "/usr/portage/dev-perl/Apache-DBI/Apache-DBI-1.120.0-r3.ebuild",
+            "line": 40,
+            "endLine": 40,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Apache-DBI"
+        }
+    ],
+    "dev-perl/Apache-CGI-Builder": [
+        {
+            "file": "/usr/portage/dev-perl/Apache-CGI-Builder/Apache-CGI-Builder-1.300.0-r3.ebuild",
+            "line": 39,
+            "endLine": 39,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Apache-CGI-Builder"
+        }
+    ],
+    "dev-perl/Apache-Reload": [
+        {
+            "file": "/usr/portage/dev-perl/Apache-Reload/Apache-Reload-0.130.0-r2.ebuild",
+            "line": 32,
+            "endLine": 32,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Apache-Reload"
+        }
+    ],
+    "dev-perl/Net-LDAPapi": [
+        {
+            "file": "/usr/portage/dev-perl/Net-LDAPapi/Net-LDAPapi-3.0.7.ebuild",
+            "line": 50,
+            "endLine": 50,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Net-LDAPapi"
+        }
+    ],
+    "dev-perl/Pango": [
+        {
+            "file": "/usr/portage/dev-perl/Pango/Pango-1.227.0-r2.ebuild",
+            "line": 59,
+            "endLine": 59,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Pango"
+        }
+    ],
+    "dev-perl/Getopt-GUI-Long": [
+        {
+            "file": "/usr/portage/dev-perl/Getopt-GUI-Long/Getopt-GUI-Long-0.930.0-r3.ebuild",
+            "line": 31,
+            "endLine": 31,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Getopt-GUI-Long"
+        }
+    ],
+    "dev-perl/Emacs-PDE": [
+        {
+            "file": "/usr/portage/dev-perl/Emacs-PDE/Emacs-PDE-0.2.17.ebuild",
+            "line": 37,
+            "endLine": 37,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Emacs-PDE"
+        }
+    ],
+    "dev-perl/Finance-YahooQuote": [
+        {
+            "file": "/usr/portage/dev-perl/Finance-YahooQuote/Finance-YahooQuote-0.260.0.ebuild",
+            "line": 35,
+            "endLine": 35,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Finance-YahooQuote"
+        }
+    ],
+    "dev-perl/Feed-Find": [
+        {
+            "file": "/usr/portage/dev-perl/Feed-Find/Feed-Find-0.70.0-r3.ebuild",
+            "line": 52,
+            "endLine": 52,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Feed-Find"
+        }
+    ],
+    "dev-perl/Ace": [
+        {
+            "file": "/usr/portage/dev-perl/Ace/Ace-1.920.0-r6.ebuild",
+            "line": 117,
+            "endLine": 117,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Ace"
+        }
+    ],
+    "dev-perl/Net-RBLClient": [
+        {
+            "file": "/usr/portage/dev-perl/Net-RBLClient/Net-RBLClient-0.500.0-r3.ebuild",
+            "line": 32,
+            "endLine": 32,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Net-RBLClient"
+        }
+    ],
+    "dev-perl/Data-FormValidator": [
+        {
+            "file": "/usr/portage/dev-perl/Data-FormValidator/Data-FormValidator-4.880.0-r1.ebuild",
+            "line": 60,
+            "endLine": 60,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Data-FormValidator"
+        }
+    ],
+    "dev-perl/Class-DBI-mysql": [
+        {
+            "file": "/usr/portage/dev-perl/Class-DBI-mysql/Class-DBI-mysql-1.0.0-r4.ebuild",
+            "line": 42,
+            "endLine": 42,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Class-DBI-mysql"
+        }
+    ],
+    "dev-perl/Modem-Vgetty": [
+        {
+            "file": "/usr/portage/dev-perl/Modem-Vgetty/Modem-Vgetty-0.30.0-r3.ebuild",
+            "line": 25,
+            "endLine": 25,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Modem-Vgetty"
+        }
+    ],
+    "dev-perl/Net-Whois-IP": [
+        {
+            "file": "/usr/portage/dev-perl/Net-Whois-IP/Net-Whois-IP-1.190.0-r2.ebuild",
+            "line": 36,
+            "endLine": 36,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Net-Whois-IP"
+        }
+    ],
+    "dev-perl/ExtUtils-AutoInstall": [
+        {
+            "file": "/usr/portage/dev-perl/ExtUtils-AutoInstall/ExtUtils-AutoInstall-0.640.0-r1.ebuild",
+            "line": 39,
+            "endLine": 39,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/ExtUtils-AutoInstall"
+        }
+    ],
+    "dev-perl/Gtk2-Ex-PodViewer": [
+        {
+            "file": "/usr/portage/dev-perl/Gtk2-Ex-PodViewer/Gtk2-Ex-PodViewer-0.180.0-r3.ebuild",
+            "line": 35,
+            "endLine": 35,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Gtk2-Ex-PodViewer"
+        }
+    ],
+    "dev-perl/CGI-Builder": [
+        {
+            "file": "/usr/portage/dev-perl/CGI-Builder/CGI-Builder-1.360.0-r3.ebuild",
+            "line": 40,
+            "endLine": 40,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/CGI-Builder"
+        }
+    ],
+    "dev-perl/Authen-PAM": [
+        {
+            "file": "/usr/portage/dev-perl/Authen-PAM/Authen-PAM-0.160.0-r3.ebuild",
+            "line": 40,
+            "endLine": 40,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Authen-PAM"
+        }
+    ],
+    "dev-perl/Dist-Zilla-Plugin-ReversionOnRelease": [
+        {
+            "file": "/usr/portage/dev-perl/Dist-Zilla-Plugin-ReversionOnRelease/Dist-Zilla-Plugin-ReversionOnRelease-0.60.0.ebuild",
+            "line": 41,
+            "endLine": 41,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Dist-Zilla-Plugin-ReversionOnRelease"
+        }
+    ],
+    "dev-perl/Audio-Mixer": [
+        {
+            "file": "/usr/portage/dev-perl/Audio-Mixer/Audio-Mixer-0.700.0-r4.ebuild",
+            "line": 42,
+            "endLine": 42,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Audio-Mixer"
+        }
+    ],
+    "dev-perl/Apache-Test": [
+        {
+            "file": "/usr/portage/dev-perl/Apache-Test/Apache-Test-1.420.0.ebuild",
+            "line": 106,
+            "endLine": 106,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Apache-Test"
+        }
+    ],
+    "dev-perl/Deliantra": [
+        {
+            "file": "/usr/portage/dev-perl/Deliantra/Deliantra-2.10.0.ebuild",
+            "line": 43,
+            "endLine": 43,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/Deliantra"
+        }
+    ],
+    "dev-perl/librg-utils-perl": [
+        {
+            "file": "/usr/portage/dev-perl/librg-utils-perl/librg-utils-perl-1.0.43-r1.ebuild",
+            "line": 50,
+            "endLine": 50,
+            "column": 15,
+            "endColumn": 27,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-perl/librg-utils-perl"
+        }
+    ],
+    "app-metrics/collectd": [
+        {
+            "file": "/usr/portage/app-metrics/collectd/collectd-5.12.0-r4.ebuild",
+            "line": 379,
+            "endLine": 379,
+            "column": 33,
+            "endColumn": 56,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "app-metrics/collectd"
+        },
+        {
+            "file": "/usr/portage/app-metrics/collectd/collectd-5.12.0-r3.ebuild",
+            "line": 379,
+            "endLine": 379,
+            "column": 33,
+            "endColumn": 56,
+            "level": "error",
+            "code": 2037,
+            "message": "To assign the output of a command, use var=$(cmd) .",
+            "fix": null,
+            "atom": "app-metrics/collectd"
+        }
+    ],
+    "dev-dotnet/libgdiplus": [
+        {
+            "file": "/usr/portage/dev-dotnet/libgdiplus/libgdiplus-6.0.2-r1.ebuild",
+            "line": 58,
+            "endLine": 58,
+            "column": 12,
+            "endColumn": 24,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-dotnet/libgdiplus"
+        },
+        {
+            "file": "/usr/portage/dev-dotnet/libgdiplus/libgdiplus-6.0.2.ebuild",
+            "line": 48,
+            "endLine": 48,
+            "column": 12,
+            "endColumn": 24,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "dev-dotnet/libgdiplus"
+        }
+    ],
+    "mail-mta/courier": [
+        {
+            "file": "/usr/portage/mail-mta/courier/courier-1.1.8.ebuild",
+            "line": 289,
+            "endLine": 289,
+            "column": 42,
+            "endColumn": 54,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "mail-mta/courier"
+        },
+        {
+            "file": "/usr/portage/mail-mta/courier/courier-1.1.5-r1.ebuild",
+            "line": 288,
+            "endLine": 288,
+            "column": 42,
+            "endColumn": 54,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "mail-mta/courier"
+        }
+    ],
+    "app-misc/editor-wrapper": [
+        {
+            "file": "/usr/portage/app-misc/editor-wrapper/files/editor-wrapper-4.sh",
+            "line": 9,
+            "endLine": 9,
+            "column": 5,
+            "endColumn": 61,
+            "level": "error",
+            "code": 2276,
+            "message": "This is interpreted as a command name containing '='. Bad assignment or comparison?",
+            "fix": null,
+            "atom": "app-misc/editor-wrapper"
+        }
+    ],
+    "www-apps/postfixadmin": [
+        {
+            "file": "/usr/portage/www-apps/postfixadmin/postfixadmin-3.3.10.ebuild",
+            "line": 100,
+            "endLine": 100,
+            "column": 67,
+            "endColumn": 81,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "www-apps/postfixadmin"
+        },
+        {
+            "file": "/usr/portage/www-apps/postfixadmin/postfixadmin-3.3.11.ebuild",
+            "line": 100,
+            "endLine": 100,
+            "column": 67,
+            "endColumn": 81,
+            "level": "error",
+            "code": 2199,
+            "message": "Arrays implicitly concatenate in [[ ]]. Use a loop (or explicit * instead of @).",
+            "fix": null,
+            "atom": "www-apps/postfixadmin"
+        }
+    ],
+    "app-containers/docker-compose": [
+        {
+            "file": "/usr/portage/app-containers/docker-compose/docker-compose-2.3.3-r2.ebuild",
+            "line": 43,
+            "endLine": 43,
+            "column": 21,
+            "endColumn": 53,
+            "level": "error",
+            "code": 2283,
+            "message": "Remove spaces around = to assign (or use [ ] to compare, or quote '=' if literal).",
+            "fix": null,
+            "atom": "app-containers/docker-compose"
+        }
+    ],
+    "net-firewall/ufw": [
+        {
+            "file": "/usr/portage/net-firewall/ufw/ufw-0.36-r1.ebuild",
+            "line": 201,
+            "endLine": 201,
+            "column": 27,
+            "endColumn": 50,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "net-firewall/ufw"
+        }
+    ],
+    "dev-tcltk/blt": [
+        {
+            "file": "/usr/portage/dev-tcltk/blt/blt-2.5.3-r1.ebuild",
+            "line": 125,
+            "endLine": 125,
+            "column": 18,
+            "endColumn": 49,
+            "level": "error",
+            "code": 2045,
+            "message": "Iterating over ls output is fragile. Use globs.",
+            "fix": null,
+            "atom": "dev-tcltk/blt"
+        }
+    ],
+    "media-libs/opus": [
+        {
+            "file": "/usr/portage/media-libs/opus/opus-1.3.1-r2.ebuild",
+            "line": 40,
+            "endLine": 40,
+            "column": 18,
+            "endColumn": 38,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "media-libs/opus"
+        }
+    ],
+    "media-sound/mixxx": [
+        {
+            "file": "/usr/portage/media-sound/mixxx/mixxx-9999.ebuild",
+            "line": 10,
+            "endLine": 10,
+            "column": 26,
+            "endColumn": 34,
+            "level": "error",
+            "code": 2203,
+            "message": "Globs are ignored in [[ ]] except right of =/!=. Use a loop.",
+            "fix": null,
+            "atom": "media-sound/mixxx"
+        },
+        {
+            "file": "/usr/portage/media-sound/mixxx/mixxx-9999.ebuild",
+            "line": 10,
+            "endLine": 10,
+            "column": 27,
+            "endColumn": 28,
+            "level": "error",
+            "code": 2157,
+            "message": "Argument to implicit -n is always true due to literal strings.",
+            "fix": null,
+            "atom": "media-sound/mixxx"
+        }
+    ],
+    "dev-util/nvidia-cuda-toolkit": [
+        {
+            "file": "/usr/portage/dev-util/nvidia-cuda-toolkit/files/cuda-config.in",
+            "line": 22,
+            "endLine": 22,
+            "column": 22,
+            "endColumn": 24,
+            "level": "error",
+            "code": 2242,
+            "message": "Can only exit with status 0-255. Other data should be written to stdout/stderr.",
+            "fix": null,
+            "atom": "dev-util/nvidia-cuda-toolkit"
+        }
+    ],
+    "x11-misc/lightdm": [
+        {
+            "file": "/usr/portage/x11-misc/lightdm/files/Xsession",
+            "line": 63,
+            "endLine": 63,
+            "column": 14,
+            "endColumn": 35,
+            "level": "error",
+            "code": 2045,
+            "message": "Iterating over ls output is fragile. Use globs.",
+            "fix": null,
+            "atom": "x11-misc/lightdm"
+        }
+    ],
+    "sci-physics/root": [
+        {
+            "file": "/usr/portage/sci-physics/root/root-6.26.00.ebuild",
+            "line": 160,
+            "endLine": 160,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/root"
+        },
+        {
+            "file": "/usr/portage/sci-physics/root/root-9999.ebuild",
+            "line": 171,
+            "endLine": 171,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/root"
+        },
+        {
+            "file": "/usr/portage/sci-physics/root/root-6.24.06-r2.ebuild",
+            "line": 160,
+            "endLine": 160,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/root"
+        },
+        {
+            "file": "/usr/portage/sci-physics/root/root-6.26.9999.ebuild",
+            "line": 171,
+            "endLine": 171,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/root"
+        }
+    ],
+    "sci-physics/geant": [
+        {
+            "file": "/usr/portage/sci-physics/geant/geant-4.10.7.3.ebuild",
+            "line": 70,
+            "endLine": 70,
+            "column": 39,
+            "endColumn": 39,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/geant"
+        },
+        {
+            "file": "/usr/portage/sci-physics/geant/geant-4.11.0.1.ebuild",
+            "line": 81,
+            "endLine": 81,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/geant"
+        },
+        {
+            "file": "/usr/portage/sci-physics/geant/geant-4.11.0.0.ebuild",
+            "line": 83,
+            "endLine": 83,
+            "column": 38,
+            "endColumn": 38,
+            "level": "error",
+            "code": 1102,
+            "message": "Shells disambiguate $(( differently or not at all. For $(command substitution), add space after $( . For $((arithmetics)), fix parsing errors.",
+            "fix": null,
+            "atom": "sci-physics/geant"
+        }
+    ],
+    "net-irc/anope": [
+        {
+            "file": "/usr/portage/net-irc/anope/anope-2.0.10.ebuild",
+            "line": 139,
+            "endLine": 139,
+            "column": 28,
+            "endColumn": 51,
+            "level": "error",
+            "code": 2066,
+            "message": "Since you double quoted this, it will not word split, and the loop will only run once.",
+            "fix": null,
+            "atom": "net-irc/anope"
+        }
+    ],
+    "dev-tex/latexmk": [
+        {
+            "file": "/usr/portage/dev-tex/latexmk/files/completion.bash-2",
+            "line": 33,
+            "endLine": 33,
+            "column": 53,
+            "endColumn": 53,
+            "level": "error",
+            "code": 1087,
+            "message": "Use braces when expanding arrays, e.g. ${array[idx]} (or ${var}[.. to quiet).",
+            "fix": null,
+            "atom": "dev-tex/latexmk"
+        }
+    ]
+}

@@ -22,15 +22,13 @@ def result_to_str(result):
     """generate string for a shellcheck result"""
     text = ""
 
-    # print atom + filename
-    text += f"{result['atom']}\nfile: {result['file']}\n"
     # print portion of affected code
     code = nth_line(
             filename = result['file'],
             n = result['line'],
             consecutive = result['endLine']-result['line']
         ) + "\n"
-    text += f"{result['line']}: {code}"
+    text += f"script: {result['file']}:{result['line']}:\n\n{code}"
     # print markers
     text += " " * (result['column'] - 1)  +  "^" * (result['endColumn'] - result['column']) + "\n"
     # print message
@@ -38,7 +36,5 @@ def result_to_str(result):
     # print fix
     if result['fix']:
         text += result['fix'] + "\n"
-    # newline
-    text += "\n"
 
     return text

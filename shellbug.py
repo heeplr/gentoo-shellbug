@@ -12,8 +12,8 @@ import subprocess
 import shellbug
 
 
-OUTFILE = "output.json"
 PORTDIR = "/usr/portage/**"
+OUTFILE = "output.json"
 SHEBANGS = [
     r"^#![\s]*/bin/bash$",
     r"^#![\s]*/bin/sh$",
@@ -126,6 +126,6 @@ if __name__ == "__main__":
             # aggregate packages
             packages[res['atom']] += [ res ]
 
-    # save bugreports
+    # save output
     with open(OUTFILE, "w+") as fd:
         json.dump(packages, fd, indent=4)

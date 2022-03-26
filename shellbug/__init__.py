@@ -38,3 +38,21 @@ def result_to_str(result):
         text += result['fix'] + "\n"
 
     return text
+
+def bugreport(package, issues):
+    msg = f"Shellckeck found errors in one or more shellscripts provided by {package}.\n" \
+              f"To minimize false-positive findings, conservative settings were used. " \
+              f"You might want to re-run shellcheck and check the complete output for more issues.\n" \
+              f"Please check the findings below. A link to the shellcheck wiki " \
+              f"will provide further details.\n"
+
+    for issue in issues:
+        msg += "\n------------------------------------------------\n"
+        msg += result_to_str(issue)
+
+    msg += "\nThis is an automated bug report.\n\n"
+    msg += "References:\n"
+    msg += "[1] this script: https://github.com/heeplr/gentoo-shellbug\n"
+    msg += "[2] shellcheck: https://www.shellcheck.net/"
+
+    return msg

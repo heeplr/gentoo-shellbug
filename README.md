@@ -3,7 +3,8 @@ minimum effort bughunt in shellscripts included in portage tree
 
 # Requirements
 
-* pip install python-bugzilla
+* click
+* python-bugzilla
 * shellcheck
 
 

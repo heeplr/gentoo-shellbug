@@ -117,7 +117,8 @@ if __name__ == "__main__":
     for filename in filelist:
         print(f"shellchecking \"{filename}\"...")
         exitcode, results, err = shellcheck(filename, exclude=[
-            "SC2068", "SC2148", "SC2034", "SC2145", "SC1081"
+            "SC2068", "SC2148", "SC2034", "SC2145", "SC1081", "SC2283",
+            "SC2199"
         ])
         for res in results:
             # output

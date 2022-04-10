@@ -18,3 +18,15 @@ $ ./shellbug.py
 ```
 
 output.json will contain shellcheck results
+
+```
+$ ./bugreports.py
+```
+
+will generate bugreports in out/
+
+```
+$ ./postbugs.py
+```
+
+will open issues on bugzilla

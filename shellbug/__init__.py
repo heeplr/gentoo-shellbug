@@ -28,7 +28,7 @@ def result_to_str(result):
             n = result['line'],
             consecutive = result['endLine']-result['line']
         ) + "\n"
-    text += f"script: {result['file']}:{result['line']}:\n\n{code}"
+    text += f"script: {result['file']}:{result['line']}\n\n{code}"
     # print markers
     text += " " * (result['column'] - 1)  +  "^" * (result['endColumn'] - result['column']) + "\n"
     # print message
@@ -40,17 +40,15 @@ def result_to_str(result):
     return text
 
 def bugreport(package, issues):
-    msg = f"Shellckeck found errors in one or more shellscripts provided by {package}.\n" \
-              f"To minimize false-positive findings, conservative settings were used. " \
-              f"You might want to re-run shellcheck and check the complete output for more issues.\n" \
-              f"Please check the findings below. A link to the shellcheck wiki " \
-              f"will provide further details.\n"
+    msg = f"Shellckeck found errors in one or more shellscripts provided by {package}.\n\n" \
+          f"Kindly refer to the findings below and the shellcheck wiki for further details:\n" \
 
     for issue in issues:
         msg += "\n------------------------------------------------\n"
         msg += result_to_str(issue)
 
-    msg += "\nThis is an automated bug report.\n\n"
+    msg += f"\nThis is an automated bug report. Conservative settings were used to minimize false-positives but there's still a chance that the above list contains non-issues.\n" \
+           f"Running shellcheck again with default settings could detect other possible issues.\n\n"
     msg += "References:\n"
     msg += "[1] this script: https://github.com/heeplr/gentoo-shellbug\n"
     msg += "[2] shellcheck: https://www.shellcheck.net/"

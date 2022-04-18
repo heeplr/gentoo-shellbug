@@ -19,7 +19,7 @@ def postbug(bzapi, package, issues):
         product="Gentoo Linux",
         version="unspecified",
         component="Current packages",
-        summary="automated shellcheck found errors",
+        summary=f"{package}: automated shellcheck found errors",
         description = shellbug.bugreport(package, issues),
         platform="All",
         op_sys="Linux"
@@ -28,7 +28,7 @@ def postbug(bzapi, package, issues):
     bug = bzapi.createbug(buginfo)
     # save bugreport
     with open(f"{OUTDIR}/{package.replace('/', '_')}.txt", "w") as fd:
-        fd.write(str(bug))
+        fd.write("")
     print(f"Created new bug id={bug.id} url={bug.weburl}")
     return bug
 

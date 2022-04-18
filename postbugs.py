@@ -17,16 +17,18 @@ OUTDIR = "./posted"
 def postbug(bzapi, package, issues):
     buginfo = bzapi.build_createbug(
         product="Gentoo Linux",
-        # ~ version="",
+        version="unspecified",
         component="Current packages",
         summary="automated shellcheck found errors",
-        description = shellbug.bugreport(package, issues)
+        description = shellbug.bugreport(package, issues),
+        platform="All",
+        op_sys="Linux"
     )
 
     bug = bzapi.createbug(buginfo)
     # save bugreport
     with open(f"{OUTDIR}/{package.replace('/', '_')}.txt", "w") as fd:
-        fd.write(bug)
+        fd.write(str(bug))
     print(f"Created new bug id={bug.id} url={bug.weburl}")
     return bug
 
@@ -65,7 +67,6 @@ def postbugs(username, password):
         print(f"posting bug report for {package}...")
         # post bugreport
         bug = postbug(bzapi, package, issuelist)
-        # ~ break
 
 if __name__ == "__main__":
     postbugs()
